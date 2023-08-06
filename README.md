@@ -1,6 +1,6 @@
 # SPY-LOGGER
 ## 🔥 SPY-LOGGER
-SPY-LOGGER is a discreet keylogger designed to activate only when Gmail or Facebook logins are attempted. It provides real-time monitoring and data logging ... 
+SPY-LOGGER is a powerful and discrete keylogger designed to provide real-time monitoring and data logging for Gmail and Facebook login attempts. In addition to its advanced logging capabilities, SPY-LOGGER offers seamless integration with Discord's Webhook API, enabling users to receive notifications and log updates through a designated Discord channel.
 <br>
 ## ⚖️ Legal Disclaimer:
 **FOR EDUCATIONAL PURPOSES ONLY** <br />
