@@ -21,3 +21,7 @@ pip3 install -r requirements.txt
 # Run the script
 python3 SPY-LOGGER.py
 ```
+
+
+https://github.com/Anupam2808/SPY-LOGGER/assets/66131023/1b2b66a0-d757-4c3c-a45e-32e25320474d
+
